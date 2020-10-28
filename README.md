@@ -3,7 +3,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andreimaga&show_icons=true&locale=en&layout=compact" alt="andreimaga" /></p>
 
 <h1 align="center">Hi 👋, I'm AndreiMaga</h1>
-<h3 align="center">An infosec enthusiast</h3>
+<h3 align="center">Infosec enthusiast</h3>
 
 - 🌱 I’m currently learning **radare2**
 
